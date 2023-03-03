@@ -1,0 +1,9 @@
+/venv/
+/wslvenv/
+/test_output/
+/saving/
+/output/
+/task/
+/efficientnet_pytorch/
+/.pytest_cache/
+/.idea/
