@@ -1,0 +1,19 @@
+{
+    "human_path": "C:\\Users\\leizi\\Downloads\\ha_data\\human",
+    "ai_path": "C:\\Users\\leizi\\Downloads\\ha_data\\ai",
+    "train_data_percentage": 0.8,
+    "epochs": 15,
+    "output_path": "./output",
+    "random_data": true,
+    "batch_size": 64,
+    "shuffle": true,
+    "num_workers": 1,
+    "learning_rate": 0.0001,
+    "test_model_per_steps": 250,
+    "show_test_results": false,
+    "model_name": "densenet169",
+    "optimizer": "adam",
+    "dynamic_lr": true,
+    "dynamic_lr_gamma": 0.5,
+    "dynamic_lr_step_size": 3
+}
